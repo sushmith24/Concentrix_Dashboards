@@ -9,3 +9,6 @@ Analyzed urban happiness data to identify key factors such as traffic, air quali
 
 **3. Company Sales Dashboard**
 Analyzed company sales data across regions, customer segments, and time periods to identify performance trends and patterns. The dashboard highlights regional sales distribution, customer demographics, and purchasing behavior to support data-driven business decisions.
+
+**4. U.S. border crossing data**
+Analyzed U.S. border crossing data to identify traffic trends, seasonal patterns, and high-activity ports. Built dashboards and forecasting models to uncover insights for improving resource allocation and operational efficiency.
