@@ -12,3 +12,6 @@ Analyzed company sales data across regions, customer segments, and time periods 
 
 **4. U.S. border crossing data**
 Analyzed U.S. border crossing data to identify traffic trends, seasonal patterns, and high-activity ports. Built dashboards and forecasting models to uncover insights for improving resource allocation and operational efficiency.
+
+**5. Airbnb pricing data analysis**
+Analyzed Airbnb pricing data to identify trends across locations, bedrooms, and time. Built a Tableau dashboard to visualize pricing patterns and revenue insights.
